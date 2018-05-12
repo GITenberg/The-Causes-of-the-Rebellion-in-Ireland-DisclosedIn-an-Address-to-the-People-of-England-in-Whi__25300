@@ -1,0 +1,34 @@
+_repo: The-Causes-of-the-Rebellion-in-Ireland-DisclosedIn-an-Address-to-the-People-of-England-in-Whi__25300
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government -- 1760-1820'
+- !lcsh 'Great Britain -- Politics and government -- 1714-1820'
+- !lcc 'HB'
+- !lcsh 'Irish question'
+title: 'The Causes of the Rebellion in Ireland Disclosed
+
+  In an Address to the People of England, in Which It Is Proved by Incontrovertible
+  Facts, That the System for Some Years Pursued in That Country, Has Driven It into
+  Its Present Dreadful Situation'
+url: http://www.gutenberg.org/ebooks/25300
